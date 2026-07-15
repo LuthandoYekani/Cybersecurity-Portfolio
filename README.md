@@ -40,7 +40,8 @@ A secure enterprise network designed and implemented in Cisco Packet Tracer feat
 ```
 📂 Project Folder
 
-[Enterprise Full Mesh Network](Networking/Enterprise-Full-Mesh-Network)
+## 🌐 [Enterprise Full Mesh Network Design](Networking/Enterprise-Full-Mesh-Network)
+📖 **Project Documentation:** [Open Project](Networking/Enterprise-Full-Mesh-Network)
 ```
 
 ---
