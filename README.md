@@ -38,8 +38,9 @@ A secure enterprise network designed and implemented in Cisco Packet Tracer feat
 📁 Location:
 
 ```
-Networking/
-└── Enterprise-Full-Mesh-Network
+📂 Project Folder
+
+[Enterprise Full Mesh Network](Networking/Enterprise-Full-Mesh-Network)
 ```
 
 ---
@@ -52,7 +53,9 @@ Enterprise networking projects using Cisco Packet Tracer.
 
 Projects:
 
-- ✅ Enterprise Full Mesh Network
+- Projects
+
+- ✅ [Enterprise Full Mesh Network](Networking/Enterprise-Full-Mesh-Network)
 
 ---
 
@@ -62,7 +65,7 @@ Linux administration, penetration testing and command-line practice.
 
 Projects:
 
-- 🔄 Coming Soon
+- 🔄 Linux Administration Notes
 
 ---
 
@@ -72,7 +75,7 @@ Network discovery and reconnaissance.
 
 Projects:
 
-- 🔄 Coming Soon
+- 🔄 Home Network Reconnaissance (In Progress)
 
 ---
 
@@ -82,7 +85,7 @@ Traffic analysis and packet inspection.
 
 Projects:
 
-- 🔄 Coming Soon
+- 🔄 Network Traffic Analysis
 
 ---
 
@@ -92,7 +95,7 @@ Cloud security labs and AWS learning.
 
 Projects:
 
-- 🔄 Coming Soon
+- 🔄 IAM Security Lab
 
 ---
 
@@ -146,3 +149,20 @@ www.linkedin.com/in/luthando-yekani-104a3b382
 GitHub
 
 github.com/LuthandoYekani
+
+---
+
+# 📌 Portfolio Progress
+
+| Section | Status |
+|----------|--------|
+| Networking | ✅ Complete |
+| Kali Linux | 🔄 In Progress |
+| Nmap | 🔄 In Progress |
+| Wireshark | 🔄 Planned |
+| AWS Cloud Security | 🔄 Planned |
+| Certifications | 🔄 Ongoing |
+
+---
+
+> This portfolio is continuously updated as I complete new cybersecurity labs, cloud projects and networking exercises.
