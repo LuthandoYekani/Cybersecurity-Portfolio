@@ -1,12 +1,27 @@
 # Router Configurations
 
-This folder contains the configuration files used in the Enterprise Full Mesh Network project.
+This folder contains the exported Cisco IOS running configurations for the routers used in the Enterprise Full Mesh Network project.
 
-## Planned Files
+## Routers
 
-- Router-A.txt
-- Router-B.txt
-- Router-C.txt
-- Router-D.txt
+- RA – LAN A Gateway
+- RB – LAN B Gateway
+- RC – LAN C Gateway
+- RD – LAN D Gateway
 
-These configuration files document the Cisco IOS commands used to configure the routers in the project and provide a reference for future study and troubleshooting.
+## Configuration Files
+
+- RA-running-config.txt
+- RB-running-config.txt
+- RC-running-config.txt
+- RD-running-config.txt
+
+These configuration files demonstrate:
+
+- Interface configuration
+- IPv4 addressing
+- WAN serial links
+- Static routing
+- Device security
+- Console and VTY configuration
+- Network verification
