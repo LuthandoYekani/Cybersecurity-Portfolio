@@ -1,12 +1,39 @@
-# Networking Projects
+# Networking Portfolio
 
-This folder contains networking and Cisco Packet Tracer projects.
+Welcome to my networking project portfolio.
 
-## Topics
+This section contains hands-on networking labs completed as part of my cybersecurity training and independent learning.
 
-- Static Routing
+## Technologies
+
+- Cisco Packet Tracer
+- Cisco IOS
+- IPv4
+- Routing
+- Switching
 - VLANs
 - DHCP
-- SSH
 - ACLs
-- Network Design
+- SSH
+
+---
+
+## Projects
+
+### Enterprise Full Mesh Network
+
+Design and implementation of a four-router enterprise network using static routing and redundant WAN links.
+
+**Skills demonstrated**
+
+- Enterprise network design
+- Static routing
+- IPv4 subnetting
+- Cisco IOS
+- Network troubleshooting
+
+Status: ✅ Complete
+
+---
+
+More networking projects will be added as I continue my cybersecurity journey.
