@@ -1,53 +1,148 @@
-# 👋 Hi, I'm Luthando Yekani
+# 🛡️ Luthando Yekani – Cybersecurity Portfolio
 
-## Cybersecurity Analyst
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Portfolio-blue)
+![Learning](https://img.shields.io/badge/Status-Continuous%20Learning-success)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
+![Linux](https://img.shields.io/badge/Linux-Kali-black)
+![Python](https://img.shields.io/badge/Python-Learning-yellow)
 
-Welcome to my Cybersecurity Portfolio.
+---
 
-I am passionate about:
+## 👋 Welcome
+
+Welcome to my cybersecurity portfolio.
+
+I am a cybersecurity student from South Africa with a strong interest in networking, cloud security, Linux administration and defensive security.
+
+This repository documents my practical projects as I continue building real-world technical skills through hands-on labs and independent learning.
+
+---
+
+# 🚀 Featured Project
+
+## 🌐 Enterprise Full Mesh Network Design
+
+**Status:** ✅ Complete
+
+A secure enterprise network designed and implemented in Cisco Packet Tracer featuring:
+
+- Four-router full mesh topology
+- Static routing
+- IPv4 subnetting
+- WAN serial connections
+- Router hardening
+- Connectivity verification
+- Technical documentation
+
+📁 Location:
+
+```
+Networking/
+└── Enterprise-Full-Mesh-Network
+```
+
+---
+
+# 📂 Portfolio Sections
+
+## 📡 Networking
+
+Enterprise networking projects using Cisco Packet Tracer.
+
+Projects:
+
+- ✅ Enterprise Full Mesh Network
+
+---
+
+## 🐧 Kali Linux
+
+Linux administration, penetration testing and command-line practice.
+
+Projects:
+
+- 🔄 Coming Soon
+
+---
+
+## 🔍 Nmap
+
+Network discovery and reconnaissance.
+
+Projects:
+
+- 🔄 Coming Soon
+
+---
+
+## 📊 Wireshark
+
+Traffic analysis and packet inspection.
+
+Projects:
+
+- 🔄 Coming Soon
+
+---
+
+## ☁️ AWS Cloud Security
+
+Cloud security labs and AWS learning.
+
+Projects:
+
+- 🔄 Coming Soon
+
+---
+
+## 📜 Certifications
+
+Professional certifications earned during my cybersecurity journey.
+
+Currently studying:
+
+- AWS Cloud Practitioner
+- AWS AI Practitioner
+
+Future goals:
+
+- CompTIA Security+
+- Cisco CCNA
+
+---
+
+# 🛠 Technologies
+
+- Cisco Packet Tracer
+- Cisco IOS
+- Kali Linux
+- Nmap
+- Wireshark
+- AWS
+- Linux
+- Git
+- GitHub
+
+---
+
+# 📈 Current Learning Focus
 
 - Network Security
-- Ethical Hacking
-- Penetration Testing
-- Vulnerability Assessment
-- Linux
-- AI in Cybersecurity
-
----
-
-## Technical Skills
-
-- Kali Linux
-- Ubuntu
-- Cisco Packet Tracer
-- Wireshark
-- Nmap
-- Networking
-- Routing & Switching
-- Risk Assessment
-- Information Security
-- Microsoft Office
-- CaseWare Working Papers
-- Pastel Accounting
-- Pastel Payroll
-
----
-
-## Current Learning
-
-- Cybersecurity
-- AWS AI & Machine Learning
-- Ethical Hacking
+- Cloud Security
 - Linux Administration
+- Ethical Hacking
+- AWS
+- Python for Cybersecurity
 
 ---
 
-## Contact
+## 📫 Connect With Me
 
-LinkedIn:
-(We'll add this later.)
+LinkedIn
 
-Location:
-South Africa
+www.linkedin.com/in/luthando-yekani-104a3b382
 
-Thank you for visiting my portfolio.
+GitHub
+
+github.com/LuthandoYekani
