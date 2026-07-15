@@ -43,6 +43,8 @@ The project was completed as part of my Cybersecurity Analyst practical training
 
 # Network Topology
 
+![Enterprise Full Mesh Network](images/network-topology.png)
+
 ## Devices
 
 - 4 Cisco 2911 Routers
@@ -80,6 +82,12 @@ The project was completed as part of my Cybersecurity Analyst practical training
 ---
 
 # Project Verification
+
+## Successful End-to-End Connectivity Test
+
+The completed network was verified by performing successful ICMP ping tests between hosts located on different LANs.
+
+![Successful Connectivity Test](images/successful-connectivity-test.png)
 
 The project was verified through:
 
