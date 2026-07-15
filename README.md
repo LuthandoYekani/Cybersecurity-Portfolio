@@ -165,4 +165,11 @@ github.com/LuthandoYekani
 
 ---
 
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuthandoYekani&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuthandoYekani&layout=compact&theme=github_dark)
+
 > This portfolio is continuously updated as I complete new cybersecurity labs, cloud projects and networking exercises.
+
