@@ -76,7 +76,7 @@ The network was segmented to improve security, reduce unnecessary broadcast traf
 
 ## Network Topology
 
-![Network Topology](images/01-network-topology.png)
+![Network Topology](images/01-VLAN-topology.png)
 
 The topology shows:
 
