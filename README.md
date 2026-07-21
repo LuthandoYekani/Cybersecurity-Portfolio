@@ -9,64 +9,126 @@
 
 ---
 
-## 👋 Welcome
+# 👋 Welcome
 
-Welcome to my cybersecurity portfolio.
+Welcome to my Cybersecurity Portfolio.
 
-I am a cybersecurity student from South Africa with a strong interest in networking, cloud security, Linux administration and defensive security.
+I am an aspiring **Cybersecurity Analyst** from South Africa, building practical experience through hands-on networking, cybersecurity, cloud security, and Linux laboratories.
 
-This repository documents my practical projects as I continue building real-world technical skills through hands-on labs and independent learning.
+This repository documents my learning journey and showcases real-world projects, technical documentation, and security investigations as I continue developing the practical skills required for a career in Cybersecurity.
 
 ---
 
-# 🚀 Featured Project
+# 🎯 Career Objective
+
+My goal is to build a career in Cybersecurity by developing practical experience in:
+
+- Security Operations Centre (SOC)
+- Network Security
+- Cloud Security
+- Threat Detection
+- Incident Response
+- Digital Forensics
+- Security Automation
+
+---
+
+# ⭐ Featured Projects
 
 ## 🌐 Enterprise Full Mesh Network Design
 
 **Status:** ✅ Complete
 
-A secure enterprise network designed and implemented in Cisco Packet Tracer featuring:
+Designed and implemented a secure enterprise network in Cisco Packet Tracer featuring:
 
 - Four-router full mesh topology
 - Static routing
 - IPv4 subnetting
-- WAN serial connections
+- WAN serial connectivity
 - Router hardening
 - Connectivity verification
-- Technical documentation
+- Professional documentation
 
-📁 Location:
+📁 **Project Folder**
 
-📂 **Project Folder**
+➡️ [Enterprise Full Mesh Network](Networking/Enterprise-Full-Mesh-Network)
 
-➡️ **[Enterprise Full Mesh Network Design](Networking/Enterprise-Full-Mesh-Network)**
+---
 
-📖 **Documentation:** [Open Project](Networking/Enterprise-Full-Mesh-Network)
-
-## 🌐 Enterprise VLAN Setup & Network Security
+## 🔒 Enterprise VLAN Setup & Network Security
 
 **Status:** ✅ Complete
 
-This project demonstrates enterprise switch configuration and network security using Cisco Packet Tracer.
+Enterprise switch security implementation featuring:
 
-### Features
-
-- VLAN implementation
+- VLAN configuration
 - IEEE 802.1Q Trunking
 - Port Security
 - SSH Version 2
 - Syslog Monitoring
 - Password Encryption
 - Access Control Lists (ACLs)
-- Enterprise Documentation
-
----
+- Enterprise documentation
 
 📁 **Project Folder**
 
-➡️ **[Enterprise VLAN Setup & Network Security](Packet-Tracer-Labs/Secure-VLAN-Network)**
+➡️ [Enterprise VLAN Setup & Network Security](Packet-Tracer-Labs/Secure-VLAN-Network)
 
-📖 **Documentation:** [Open Project](Packet-Tracer-Labs/Secure-VLAN-Network)
+---
+
+## 📡 Network Traffic Analysis using Wireshark
+
+**Status:** ✅ Complete
+
+Practical packet analysis using Wireshark within a controlled CyberLab environment.
+
+Features include:
+
+- ARP Analysis
+- ICMP Analysis
+- Display Filters
+- Packet Inspection
+- Traffic Investigation
+- Technical Reporting
+
+📁 **Project Folder**
+
+➡️ [Network Traffic Analysis](Wireshark-Analysis/Network-Traffic-Analysis)
+
+---
+
+## 🛡️ IDS & ACL Security
+
+**Status:** ✅ Complete
+
+Implementation of enterprise security controls using Snort IDS and Cisco ACLs.
+
+Features include:
+
+- Snort IDS Configuration
+- Custom Detection Rules
+- ICMP Detection
+- Extended ACL Configuration
+- Traffic Monitoring
+- Security Validation
+
+📁 **Project Folder**
+
+➡️ [IDS & ACL Security](Packet-Tracer-Labs/IDS-and-ACL-Security)
+
+---
+
+# 💼 Core Skills
+
+| Domain | Skills |
+|---------|--------|
+| Networking | Routing, Switching, VLANs, Static Routing, IPv4 Subnetting |
+| Network Security | ACLs, Port Security, SSH, Syslog |
+| Traffic Analysis | Wireshark, Packet Inspection, Protocol Analysis |
+| Intrusion Detection | Snort IDS, Signature-Based Detection |
+| Cloud Security | AWS IAM, EC2, VPC, Security Groups |
+| Operating Systems | Kali Linux, Ubuntu Linux, Windows |
+| Tools | Cisco Packet Tracer, Wireshark, Nmap, Git, GitHub |
 
 ---
 
@@ -74,68 +136,117 @@ This project demonstrates enterprise switch configuration and network security u
 
 ### 🖧 Networking
 
-Enterprise networking projects using Cisco Packet Tracer.
+Enterprise networking projects and network infrastructure design.
 
-Projects
+### 🧪 Packet Tracer Labs
 
-- ✅ Enterprise Full Mesh Network
-- ✅ Enterprise VLAN Setup & Network Security
-  
----
+Enterprise security and Cisco networking laboratories.
 
-## 🐧 Kali Linux
+### 📊 Wireshark Analysis
 
-Linux administration, penetration testing and command-line practice.
+Packet capture, protocol analysis, and network troubleshooting.
 
-Projects:
+### 🔍 Nmap Lab
 
-- 🔄 Linux Administration Notes
+Network discovery, reconnaissance, and vulnerability assessment.
 
----
+### ☁️ AWS Cloud Security
 
-## 🔍 Nmap
+Hands-on AWS security laboratories and cloud security learning.
 
-Network discovery and reconnaissance.
+### 🐧 Kali Linux Notes
 
-Projects:
+Linux administration, command-line tools, and penetration testing notes.
 
-- 🔄 Home Network Reconnaissance (In Progress)
+### 📋 Risk Assessments
 
----
+Cybersecurity risk analysis, security frameworks, and governance.
 
-## 📊 Wireshark
+### 💻 Scripts
 
-Traffic analysis and packet inspection.
+Automation scripts and cybersecurity utilities.
 
-Projects:
+### 📝 Writeups
 
-- 🔄 Network Traffic Analysis
+Incident response reports, technical investigations, and security documentation.
 
----
+### 🎓 Certifications
 
-## ☁️ AWS Cloud Security
-
-Cloud security labs and AWS learning.
-
-Projects:
-
-- 🔄 IAM Security Lab
+Professional certifications and continuous learning achievements.
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-Professional certifications earned during my cybersecurity journey.
+### Completed
 
-Currently studying:
+- ✅ Fortinet Certified Fundamentals in Cybersecurity
+- ✅ Fortinet – Getting Started in Cybersecurity
+- ✅ Fortinet – Introduction to the Threat Landscape
+- ✅ Fortinet – Network Fundamentals
+- ✅ Fortinet – Technical Introduction to Cybersecurity
+- ✅ Lean Six Sigma White Belt
+- ✅ Lean Six Sigma Yellow Belt
+
+### Currently Studying
 
 - AWS Cloud Practitioner
 - AWS AI Practitioner
 
-Future goals:
+### Future Goals
 
 - CompTIA Security+
 - Cisco CCNA
+
+---
+
+# 🚀 Current Development Roadmap
+
+- Advanced Wireshark Analysis
+- Nmap Network Reconnaissance
+- AWS Cloud Security
+- Python for Cybersecurity
+- Bash Scripting
+- Digital Forensics
+- Threat Detection
+- Security Automation
+
+---
+
+# 📈 Learning Journey
+
+```text
+Networking
+      ↓
+Enterprise Security
+      ↓
+Packet Analysis
+      ↓
+Intrusion Detection
+      ↓
+Cloud Security
+      ↓
+Security Automation
+      ↓
+Digital Forensics
+```
+
+---
+
+# 📊 Portfolio Progress
+
+| Section | Status |
+|----------|:------:|
+| Networking | ✅ |
+| Packet Tracer Labs | ✅ |
+| Wireshark Analysis | ✅ |
+| Kali Linux | 🔄 |
+| Nmap Lab | 🔄 |
+| AWS Cloud Security | 🔄 |
+| Risk Assessments | 🔄 |
+| Scripts | 🔄 |
+| Writeups | 🔄 |
+| Certifications | 🔄 |
 
 ---
 
@@ -144,49 +255,26 @@ Future goals:
 - Cisco Packet Tracer
 - Cisco IOS
 - Kali Linux
-- Nmap
+- Ubuntu Linux
 - Wireshark
+- Snort IDS
+- Nmap
 - AWS
-- Linux
 - Git
 - GitHub
+- Linux
 
 ---
 
-# 📈 Current Learning Focus
+# 📫 Connect With Me
 
-- Network Security
-- Cloud Security
-- Linux Administration
-- Ethical Hacking
-- AWS
-- Python for Cybersecurity
+### LinkedIn
 
----
+https://www.linkedin.com/in/luthando-yekani-104a3b382
 
-## 📫 Connect With Me
+### GitHub
 
-LinkedIn
-
-www.linkedin.com/in/luthando-yekani-104a3b382
-
-GitHub
-
-github.com/LuthandoYekani
-
----
-
-# 📌 Portfolio Progress
-
-| Section | Status |
-|----------|--------|
-| Networking | ✅ Complete |
-| Packet Tracer Labs | ✅ Complete |
-| Kali Linux | 🔄 In Progress |
-| Nmap | 🔄 In Progress |
-| Wireshark | 🔄 Planned |
-| AWS Cloud Security | 🔄 Planned |
-| Certifications | 🔄 Ongoing |
+https://github.com/LuthandoYekani
 
 ---
 
@@ -199,5 +287,17 @@ github.com/LuthandoYekani
 ## 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuthandoYekani&theme=github-dark)
-> This portfolio is continuously updated as I complete new cybersecurity labs, cloud projects and networking exercises.
 
+---
+
+# 📌 About This Repository
+
+This portfolio is continuously updated as I complete new cybersecurity laboratories, cloud security projects, networking exercises, and technical investigations.
+
+Every project includes practical implementation, supporting documentation, and technical reporting to demonstrate both hands-on experience and professional documentation skills.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
