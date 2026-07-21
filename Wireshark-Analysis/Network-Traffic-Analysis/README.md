@@ -118,7 +118,6 @@ Although the captured traffic was generated within a controlled CyberLab environ
 |------|-------------|
 | README.md | Project overview and technical documentation |
 | REPORT.md | Detailed technical report |
-| images/ | Wireshark screenshots used during analysis |
 | captures/ | Packet capture files (PCAP) |
 | findings/ | Analysis notes and supporting documentation |
 
