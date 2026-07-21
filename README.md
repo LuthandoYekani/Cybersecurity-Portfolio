@@ -66,9 +66,8 @@ This project demonstrates enterprise switch configuration and network security u
 
 ➡️ **[Enterprise VLAN Setup & Network Security](Packet-Tracer-Labs/Secure-VLAN-Network)**
 
-📘 **Documentation**
+📖 **Documentation:** [Open Project](Packet-Tracer-Labs/Secure-VLAN-Network)
 
-➡️ **[Open Project](Packet-Tracer-Labs/Secure-VLAN-Network)**
 ---
 
 # 📂 Portfolio Sections
