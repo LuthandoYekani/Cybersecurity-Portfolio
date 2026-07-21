@@ -45,14 +45,14 @@ A secure enterprise network designed and implemented in Cisco Packet Tracer feat
 
 ## 🌐 Enterprise VLAN Setup & Network Security
 
-Status: ✅ Complete
+**Status:** ✅ Complete
 
 This project demonstrates enterprise switch configuration and network security using Cisco Packet Tracer.
 
-Features:
+### Features
 
 - VLAN implementation
-- 802.1Q Trunking
+- IEEE 802.1Q Trunking
 - Port Security
 - SSH Version 2
 - Syslog Monitoring
@@ -60,13 +60,15 @@ Features:
 - Access Control Lists (ACLs)
 - Enterprise Documentation
 
+---
+
 📁 **Project Folder**
 
-➡️ [Enterprise VLAN Setup & Network Security](Networking/VLAN-Setup-Network-Security)
+➡️ **[Enterprise VLAN Setup & Network Security](Packet-Tracer-Labs/Secure-VLAN-Network)**
 
 📘 **Documentation**
 
-➡️ [Open Project](Networking/VLAN-Setup-Network-Security)
+➡️ **[Open Project](Packet-Tracer-Labs/Secure-VLAN-Network)**
 ---
 
 # 📂 Portfolio Sections
