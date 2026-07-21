@@ -62,7 +62,7 @@ These filters simplified packet analysis by removing unrelated traffic and allow
 
 ### ARP Traffic Analysis
 
-![ARP Filter](images/Wireshark-ARP-Filter-Applied.png)
+![ARP Filter](captures/Wireshark-ARP-Filter-Applied.png)
 
 The ARP display filter was used to isolate Address Resolution Protocol traffic. The captured packets showed devices requesting and responding with MAC address information required before communication could occur on the local network.
 
@@ -70,7 +70,7 @@ The ARP display filter was used to isolate Address Resolution Protocol traffic. 
 
 ### ICMP Traffic Analysis
 
-![ICMP Filter](images/Wireshark-ICMP-Filter-Applied.png)
+![ICMP Filter](captures/Wireshark-ICMP-Filter-Applied.png)
 
 The ICMP display filter isolated Echo Requests and Echo Replies generated during connectivity testing. The captured packets confirmed successful communication between hosts and demonstrated how ICMP is commonly used for network troubleshooting and reachability testing.
 
