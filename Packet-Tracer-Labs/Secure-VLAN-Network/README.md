@@ -107,7 +107,7 @@ The following VLANs were created:
 
 The VLAN database was verified after configuration to ensure each VLAN had been successfully created and assigned to the correct switch ports.
 
-![VLAN Brief](images/01-vlan-brief.png)
+![VLAN Brief](images/02-vlan-brief.png)
 
 The VLAN verification confirmed that:
 
