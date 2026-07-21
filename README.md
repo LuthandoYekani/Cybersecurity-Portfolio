@@ -181,6 +181,7 @@ github.com/LuthandoYekani
 | Section | Status |
 |----------|--------|
 | Networking | ✅ Complete |
+| Packet Tracer Labs | ✅ Complete |
 | Kali Linux | 🔄 In Progress |
 | Nmap | 🔄 In Progress |
 | Wireshark | 🔄 Planned |
