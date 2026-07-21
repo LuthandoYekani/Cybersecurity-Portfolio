@@ -76,7 +76,7 @@ The network was segmented to improve security, reduce unnecessary broadcast traf
 
 ## Network Topology
 
-![Network Topology](images/01-VLAN-Topology.png)
+![Network Topology](images/01-vlan-topology.png)
 
 The topology shows:
 
@@ -126,7 +126,7 @@ This allows VLAN traffic to traverse the network while maintaining logical separ
 
 ## Trunk Verification
 
-![Trunk Interfaces](images/02-vlan-interfaces-trunk.png)
+![Trunk Interfaces](images/03-vlan-trunk-interfaces.png)
 
 The trunk configuration confirmed:
 
@@ -159,15 +159,15 @@ Security violations were configured to restrict access when an unknown MAC addre
 
 ### Port Security Configuration
 
-![Port Security](images/03-port-security.png)
+![Port Security](images/04-port-security.png)
 
 ### Port Security Violation Setup
 
-![Port Security Violation](images/04-port-security-violation-setup.png)
+![Port Security Violation](images/05-port-security-violation-setup.png)
 
 ### Verification
 
-![Port Security Violation Count](images/05-port-violation-count.png)
+![Port Security Violation Count](images/06-port-security-violation-count.png)
 
 The verification confirmed that the configured security policy correctly detected and responded to unauthorized devices.
 
@@ -181,11 +181,11 @@ This provides a secure alternative to Telnet by encrypting management traffic.
 
 ### SSH Enabled
 
-![SSH Enabled](images/06-ssh-enabled.png)
+![SSH Enabled](images/07-ssh-enabled.png)
 
 ### SSH Version 2 Verification
 
-![SSH Version 2](images/07-ssh-v2-enabled.png)
+![SSH Version 2](images/08-ssh-v2-enabled.png)
 
 The successful verification confirmed that encrypted remote management was operational.
 
@@ -197,6 +197,6 @@ Device passwords were encrypted to prevent plaintext credentials from appearing 
 
 ### Verification
 
-![Encrypted Passwords](images/08-encrypted-passwords.png)
+![Encrypted Passwords](images/09-encrypted-passwords.png)
 
 The configuration confirmed that password encryption was successfully enabled on the network devices.
