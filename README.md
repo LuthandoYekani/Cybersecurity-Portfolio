@@ -42,20 +42,44 @@ A secure enterprise network designed and implemented in Cisco Packet Tracer feat
 ➡️ **[Enterprise Full Mesh Network Design](Networking/Enterprise-Full-Mesh-Network)**
 
 📖 **Documentation:** [Open Project](Networking/Enterprise-Full-Mesh-Network)
+
+## 🌐 Enterprise VLAN Setup & Network Security
+
+Status: ✅ Complete
+
+This project demonstrates enterprise switch configuration and network security using Cisco Packet Tracer.
+
+Features:
+
+- VLAN implementation
+- 802.1Q Trunking
+- Port Security
+- SSH Version 2
+- Syslog Monitoring
+- Password Encryption
+- Access Control Lists (ACLs)
+- Enterprise Documentation
+
+📁 **Project Folder**
+
+➡️ [Enterprise VLAN Setup & Network Security](Networking/VLAN-Setup-Network-Security)
+
+📘 **Documentation**
+
+➡️ [Open Project](Networking/VLAN-Setup-Network-Security)
 ---
 
 # 📂 Portfolio Sections
 
-## 📡 Networking
+### 🖧 Networking
 
 Enterprise networking projects using Cisco Packet Tracer.
 
-Projects:
+Projects
 
-- Projects
-
-- ✅ [Enterprise Full Mesh Network](Networking/Enterprise-Full-Mesh-Network)
-
+- ✅ Enterprise Full Mesh Network
+- ✅ Enterprise VLAN Setup & Network Security
+  
 ---
 
 ## 🐧 Kali Linux
