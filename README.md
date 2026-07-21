@@ -178,8 +178,9 @@ Professional certifications and continuous learning achievements.
 
 # 📜 Certifications
 
-### Completed
+## Completed
 
+- ✅ AWS AI Practitioner Challenge (Udacity)
 - ✅ Fortinet Certified Fundamentals in Cybersecurity
 - ✅ Fortinet – Getting Started in Cybersecurity
 - ✅ Fortinet – Introduction to the Threat Landscape
@@ -187,17 +188,26 @@ Professional certifications and continuous learning achievements.
 - ✅ Fortinet – Technical Introduction to Cybersecurity
 - ✅ Lean Six Sigma White Belt
 - ✅ Lean Six Sigma Yellow Belt
+- ✅ Construction Project Management (University of Cape Town – GetSmarter)
 
-### Currently Studying
+---
 
-- AWS Cloud Practitioner
-- AWS AI Practitioner
+## Currently Learning
 
-### Future Goals
+- AWS Cloud Security
+- Python for Cybersecurity
+- Advanced Wireshark Analysis
+- Digital Forensics
 
+---
+
+## Future Certification Goals
+
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
 - CompTIA Security+
 - Cisco CCNA
-
+  
 ---
 
 # 🚀 Current Development Roadmap
