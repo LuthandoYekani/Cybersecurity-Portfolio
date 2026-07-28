@@ -1,88 +1,86 @@
 # Risk Assessments
 
-This section of my Cybersecurity Portfolio contains projects focused on cybersecurity governance, risk management, compliance, and security assessment.
+## Overview
 
-These projects demonstrate the ability to identify security risks, apply recognised cybersecurity frameworks, evaluate security controls, and recommend practical mitigation strategies. The work is based on industry best practices and aligns with the responsibilities of Governance, Risk, and Compliance (GRC) and Cybersecurity Analyst roles.
+This section of my Cybersecurity Portfolio demonstrates practical skills in cybersecurity governance, risk management, security policy development, compliance, and enterprise documentation.
 
----
-
-# Objectives
-
-The projects in this section aim to demonstrate the ability to:
-
-- Perform cybersecurity risk assessments
-- Apply recognised cybersecurity frameworks
-- Evaluate security controls
-- Develop security policies and governance documentation
-- Measure security effectiveness using Key Performance Indicators (KPIs)
-- Improve organisational cybersecurity posture through risk-based recommendations
+The projects in this directory focus on aligning technical security controls with recognised cybersecurity frameworks, legislation, and governance best practices. They demonstrate my ability to develop professional security documentation alongside technical implementations.
 
 ---
 
-# Skills Demonstrated
+## Objectives
+
+- Apply cybersecurity governance principles.
+- Perform security risk assessments.
+- Develop enterprise security policies.
+- Design measurable cybersecurity governance KPIs.
+- Align security controls with recognised frameworks and legislation.
+- Produce professional enterprise documentation.
+
+---
+
+## Skills Demonstrated
 
 - Cybersecurity Governance
-- Risk Assessment
-- Security Controls
-- NIST Cybersecurity Framework (CSF)
-- ISO/IEC 27001
+- Risk Management
+- Information Security
 - Security Policy Development
-- Governance, Risk & Compliance (GRC)
-- Security Documentation
-- Incident Response Planning
-- Cybersecurity Reporting
+- Security Metrics & KPI Design
+- Regulatory Compliance
+- Enterprise Documentation
+- Technical Writing
 
 ---
 
-# Technologies & Frameworks
+## Standards & Frameworks
 
 - NIST Cybersecurity Framework (CSF)
 - ISO/IEC 27001
-- POPIA
-- Cybercrimes Act 19 of 2020
 - MITRE ATT&CK Framework
-- Git
-- GitHub
+- Protection of Personal Information Act (POPIA)
+- Cybercrimes Act 19 of 2020 (South Africa)
 
 ---
 
 # Projects
 
 | Project | Status | Description |
-|---------|:------:|-------------|
-| Security Controls and NIST CSF | ✅ Complete | Implementation of enterprise security controls mapped to the NIST Cybersecurity Framework. |
-| Enterprise Cybersecurity Policy | 🚧 In Progress | Information security policy aligned with recognised governance standards. |
-| Cybersecurity Governance KPIs | 🚧 In Progress | Development of measurable cybersecurity Key Performance Indicators (KPIs). |
+|---------|--------|-------------|
+| Security Controls and NIST CSF | ✅ Complete | Implementation of enterprise security controls aligned with the NIST Cybersecurity Framework. |
+| Enterprise Cybersecurity Policy | ✅ Complete | Development of a professional enterprise cybersecurity policy aligned with South African legislation and international standards. |
+| Cybersecurity Governance KPI Strategy | ✅ Complete | Enterprise KPI strategy for measuring cybersecurity performance and governance effectiveness. |
 
 ---
 
-# Learning Outcomes
+## Learning Outcomes
 
-The projects contained within this section demonstrate practical knowledge of cybersecurity governance and the relationship between governance frameworks and technical security implementations.
+Through these projects I demonstrated the ability to:
 
-Key areas include:
-
-- Identifying organisational security risks
-- Implementing security controls
-- Supporting regulatory compliance
-- Measuring cybersecurity performance
-- Producing professional security documentation
+- Apply recognised cybersecurity frameworks.
+- Develop enterprise governance documentation.
+- Create measurable cybersecurity performance indicators.
+- Translate technical controls into organisational governance.
+- Produce documentation suitable for professional environments.
 
 ---
 
-# Future Projects
+## Future Projects
 
-This section will continue to expand with additional governance and risk-focused projects, including:
+As my portfolio grows, this section will include additional governance and risk management projects, including:
 
-- Risk Register Development
+- Enterprise Risk Register
 - Vulnerability Risk Assessment
 - Business Impact Analysis (BIA)
-- Security Gap Analysis
-- ISO/IEC 27001 Control Mapping
+- ISO/IEC 27001 Gap Assessment
 - Third-Party Risk Assessment
+- Security Audit Reports
 
 ---
 
 ## Portfolio Goal
 
-The goal of this section is to demonstrate the ability to bridge cybersecurity governance with practical technical implementations. Each project reflects the documentation, planning, and analytical skills required in professional cybersecurity and Governance, Risk & Compliance (GRC) environments.
+This section demonstrates that cybersecurity extends beyond technical implementation by combining governance, compliance, policy development, and measurable security management practices.
+
+---
+
+> This directory forms part of my Cybersecurity Analyst portfolio and showcases practical experience in governance, compliance, enterprise documentation, and cybersecurity risk management.
