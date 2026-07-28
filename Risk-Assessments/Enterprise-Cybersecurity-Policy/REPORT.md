@@ -1,30 +1,69 @@
 # Enterprise Cybersecurity Policy
 
-**Organisation:** Nkanyezi Properties (Pty) Ltd
+---
 
-**Document Type:** Information Security Policy
+# Document Control
 
-**Version:** 1.0
+| Item | Details |
+|------|---------|
+| **Document Title** | Enterprise Cybersecurity Policy |
+| **Organisation** | Nkanyezi Properties (Pty) Ltd |
+| **Document Owner** | IT Security Department |
+| **Author** | Luthando Yekani |
+| **Version** | 1.0 |
+| **Status** | Approved |
+| **Classification** | Internal Use |
+| **Effective Date** | 18 May 2026 |
+| **Review Date** | 18 May 2027 |
 
-**Effective Date:** 18 May 2026
+---
 
-**Review Date:** 18 May 2027
+# Document Approval
 
-**Classification:** Internal Use
+| Role | Name | Status |
+|------|------|--------|
+| Executive Management | __________________ | Approved |
+| IT Manager | __________________ | Approved |
+| Security Administrator | __________________ | Approved |
+
+---
+
+# Revision History
+
+| Version | Date | Description | Author |
+|---------|------------|-------------------------------|----------------|
+| 1.0 | 18 May 2026 | Initial release | Luthando Yekani |
+
+---
+
+# Table of Contents
+
+1. Executive Summary
+2. Purpose
+3. Scope
+4. Regulatory Compliance
+5. Definitions
+6. Roles and Responsibilities
+7. Security Policy Statements
+8. Enforcement
+9. Policy Review
+10. Supporting Security Controls
+11. Related Documents
+12. Conclusion
 
 ---
 
 # 1. Executive Summary
 
-This Enterprise Cybersecurity Policy establishes the security principles, responsibilities, and minimum security requirements for protecting the information systems, network infrastructure, and digital assets of Nkanyezi Properties (Pty) Ltd.
+This Enterprise Cybersecurity Policy establishes the security principles, responsibilities, and minimum security requirements necessary to protect the information systems, network infrastructure, and digital assets of Nkanyezi Properties (Pty) Ltd.
 
-The policy provides a governance framework for maintaining confidentiality, integrity, and availability of organisational information while supporting compliance with South African legislation and recognised cybersecurity standards.
+The policy supports confidentiality, integrity, and availability of organisational information while ensuring compliance with recognised cybersecurity frameworks and South African legislation.
 
 ---
 
 # 2. Purpose
 
-The purpose of this policy is to protect organisational systems, networks, information assets, and users against cyber threats, unauthorised access, malware, and data loss through the implementation of consistent cybersecurity controls.
+The purpose of this policy is to protect organisational information assets against cyber threats, unauthorised access, malware infections, insider threats, and accidental data loss through the implementation of standardised cybersecurity controls.
 
 ---
 
@@ -32,30 +71,32 @@ The purpose of this policy is to protect organisational systems, networks, infor
 
 This policy applies to:
 
-- All employees
+- Employees
 - Contractors
+- Consultants
 - Third-party service providers
 - Temporary staff
-- Network administrators
-- Management
+- IT Administrators
+- Executive Management
 
-It covers:
+The policy covers:
 
-- Network infrastructure
+- Servers
 - Routers
 - Switches
-- Servers
-- Endpoints
-- User workstations
+- Firewalls
+- End-user devices
 - Mobile devices
-- Information systems
-- Organisational data
+- Network infrastructure
+- Cloud services
+- Business applications
+- Organisational information assets
 
 ---
 
 # 4. Regulatory Compliance
 
-This policy aligns with the following standards and legislation:
+This policy aligns with:
 
 - Protection of Personal Information Act (POPIA)
 - Cybercrimes Act 19 of 2020
@@ -64,168 +105,213 @@ This policy aligns with the following standards and legislation:
 
 ---
 
-# 5. Roles and Responsibilities
+# 5. Definitions
 
-## Management
+### Information Asset
 
-Management is responsible for:
+Any information that has value to the organisation, whether stored electronically or physically.
 
-- Approving this policy
+---
+
+### Endpoint
+
+Any device connected to the organisational network including desktops, laptops, mobile devices and servers.
+
+---
+
+### Security Incident
+
+Any event that compromises, or has the potential to compromise, the confidentiality, integrity, or availability of organisational information or systems.
+
+---
+
+### Authentication
+
+The process of verifying the identity of a user before granting access to organisational resources.
+
+---
+
+### Least Privilege
+
+The security principle whereby users receive only the minimum permissions necessary to perform their assigned duties.
+
+---
+
+# 6. Roles and Responsibilities
+
+## Executive Management
+
+Responsible for:
+
+- Approving security policies
+- Allocating security resources
 - Supporting cybersecurity initiatives
-- Providing adequate security resources
 - Ensuring organisational compliance
 
 ---
 
-## IT Administrators
+## IT Security Administrators
 
-IT Administrators are responsible for:
+Responsible for:
 
 - Implementing technical security controls
-- Maintaining network security
-- Monitoring systems
-- Applying security updates
-- Responding to security incidents
+- Monitoring network activity
+- Managing user accounts
+- Applying security patches
+- Investigating security incidents
+- Maintaining backup procedures
 
 ---
 
 ## Users
 
-Users are responsible for:
+Responsible for:
 
-- Following all security requirements
-- Protecting login credentials
+- Following this policy
+- Protecting passwords
 - Reporting security incidents immediately
 - Using organisational systems responsibly
+- Completing cybersecurity awareness training
 
 ---
 
-# 6. Security Policy Statements
+# 7. Security Policy Statements
 
-## 6.1 User Authentication
+## Authentication
 
-- Every user must have a unique username.
-- Passwords must contain a minimum of ten characters.
-- Passwords must include uppercase letters, lowercase letters, at least three numbers, and two special characters.
+- Every user shall have a unique username.
+- Passwords shall contain at least ten characters.
+- Passwords shall include uppercase letters, lowercase letters, three numbers and two special characters.
 
 ---
 
-## 6.2 Secure Remote Access
+## Remote Access
 
-Remote administration shall only use SSH.
+SSH Version 2 shall be the only approved remote administration protocol.
 
 Telnet is prohibited.
 
 ---
 
-## 6.3 Network Segmentation
+## Network Segmentation
 
-Guest VLAN users shall not have access to the Admin VLAN.
+Guest VLANs shall never communicate directly with administrative VLANs.
 
-Network segmentation must be maintained to reduce security risks.
-
----
-
-## 6.4 Endpoint Protection
-
-Anti-malware software shall remain enabled and updated on all organisational devices.
-
-Software updates and security patches shall be installed promptly.
+Network segmentation shall be maintained to minimise attack surfaces.
 
 ---
 
-## 6.5 Incident Reporting
+## Endpoint Security
 
-All cybersecurity incidents shall be reported immediately to the IT Department.
+All endpoints shall:
 
-Users shall not attempt to investigate or resolve incidents independently.
-
----
-
-## 6.6 Workstation Security
-
-Users shall lock or log off their computers whenever leaving their workstation unattended.
+- Run approved anti-malware software.
+- Receive operating system updates.
+- Receive security patches promptly.
 
 ---
 
-## 6.7 Removable Media
+## Incident Reporting
 
-USB devices and removable storage must be scanned for malware before use.
+Every suspected cybersecurity incident shall be reported immediately to the IT Security Department.
 
-Quick scans are not permitted.
-
----
-
-## 6.8 Network Device Security
-
-Router and switch configurations shall be backed up securely on a regular basis.
-
-Backup restoration tests should be performed periodically.
+Employees shall not attempt to investigate incidents independently.
 
 ---
 
-## 6.9 Credential Protection
+## Workstation Security
 
-Users shall not share usernames or passwords with any other person.
-
-Account sharing is strictly prohibited.
+Users shall lock their workstation whenever leaving their desk.
 
 ---
 
-## 6.10 Device Management
+## Removable Media
 
-Unauthorised devices shall not be connected to the organisational network.
+All removable media must be scanned before use.
+
+Unapproved storage devices are prohibited.
 
 ---
 
-# 7. Enforcement
+## Backup Management
+
+Network device configurations shall be backed up regularly.
+
+Backup restoration testing shall be conducted periodically.
+
+---
+
+## Credential Protection
+
+Users shall never:
+
+- Share passwords
+- Share user accounts
+- Store passwords insecurely
+
+---
+
+## Device Management
+
+Only authorised devices may connect to the organisational network.
+
+Unauthorised devices shall be removed immediately.
+
+---
+
+# 8. Enforcement
 
 Failure to comply with this policy may result in:
 
-- Disciplinary action
-- Suspension of network access
-- Revocation of user privileges
-- Legal action where applicable
+- Formal disciplinary action
+- Removal of network access
+- Suspension of user accounts
+- Legal proceedings where applicable
 
 ---
 
-# 8. Policy Review
+# 9. Policy Review
 
-This policy shall be reviewed annually or following any significant cybersecurity incident, major infrastructure change, or regulatory update.
+This policy shall be reviewed:
 
-Next Review Date:
+- Annually
+- Following major security incidents
+- After significant infrastructure changes
+- Following legislative changes
+
+Next scheduled review:
 
 **18 May 2027**
 
 ---
 
-# 9. Supporting Security Controls
+# 10. Supporting Security Controls
 
-This policy is supported by the following technical controls implemented within the enterprise environment:
+The following technical controls support this policy:
 
 - VLAN Segmentation
 - SSH Version 2
 - Port Security
-- Syslog Monitoring
-- Snort Intrusion Detection System
+- Syslog
+- Snort IDS
+- Wireshark Analysis
 - Static Routing
-- Access Control Lists (ACLs)
+- ACLs
 - Password Encryption
+- Incident Response Procedures
 
 ---
 
-# 10. Related Projects
-
-This policy is implemented alongside the following portfolio projects:
+# 11. Related Documents
 
 - Security Controls and NIST Cybersecurity Framework
-- Enterprise VLAN Security
-- IDS & Firewall Configuration
-- Incident Response Report
 - Cybersecurity Governance KPIs
+- Incident Response Report
+- Network Hardening Documentation
+- Enterprise VLAN Security
 
 ---
 
 # Conclusion
 
-The implementation of this Enterprise Cybersecurity Policy provides a structured governance framework for protecting organisational information assets while promoting secure user behaviour, regulatory compliance, and effective cybersecurity risk management. Combined with technical security controls and continuous monitoring, the policy strengthens the organisation's overall cybersecurity posture and supports a proactive approach to information security.
+This Enterprise Cybersecurity Policy establishes a comprehensive governance framework for protecting organisational information systems and supporting secure business operations. By combining governance principles with practical technical controls, the organisation strengthens its ability to prevent cyber threats, respond effectively to incidents, and maintain compliance with recognised cybersecurity standards and South African legislation.
