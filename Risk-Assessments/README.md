@@ -1,101 +1,88 @@
-# Security Controls and NIST Cybersecurity Framework
+# Risk Assessments
 
-## Overview
+This section of my Cybersecurity Portfolio contains projects focused on cybersecurity governance, risk management, compliance, and security assessment.
 
-This project demonstrates the implementation of cybersecurity governance using the NIST Cybersecurity Framework (NIST CSF). Three security controls were selected, analysed, and linked to practical implementations completed during enterprise network security labs.
-
-The project demonstrates how governance frameworks translate into technical security controls within an enterprise environment.
+These projects demonstrate the ability to identify security risks, apply recognised cybersecurity frameworks, evaluate security controls, and recommend practical mitigation strategies. The work is based on industry best practices and aligns with the responsibilities of Governance, Risk, and Compliance (GRC) and Cybersecurity Analyst roles.
 
 ---
 
-## Objectives
+# Objectives
 
-- Understand cybersecurity governance
-- Apply the NIST Cybersecurity Framework
-- Select appropriate security controls
-- Explain threats mitigated by each control
-- Demonstrate practical implementation evidence
+The projects in this section aim to demonstrate the ability to:
+
+- Perform cybersecurity risk assessments
+- Apply recognised cybersecurity frameworks
+- Evaluate security controls
+- Develop security policies and governance documentation
+- Measure security effectiveness using Key Performance Indicators (KPIs)
+- Improve organisational cybersecurity posture through risk-based recommendations
 
 ---
 
-## Framework
+# Skills Demonstrated
+
+- Cybersecurity Governance
+- Risk Assessment
+- Security Controls
+- NIST Cybersecurity Framework (CSF)
+- ISO/IEC 27001
+- Security Policy Development
+- Governance, Risk & Compliance (GRC)
+- Security Documentation
+- Incident Response Planning
+- Cybersecurity Reporting
+
+---
+
+# Technologies & Frameworks
 
 - NIST Cybersecurity Framework (CSF)
 - ISO/IEC 27001
 - POPIA
 - Cybercrimes Act 19 of 2020
+- MITRE ATT&CK Framework
+- Git
+- GitHub
 
 ---
 
-## Security Controls
+# Projects
 
-### Access Control
-
-Framework Reference
-
-NIST CSF PR.AC-1
-
-Implementation
-
-- VLAN Segmentation
-- SSH Authentication
-
-Threats Prevented
-
-- Unauthorized access
-- Insider threats
-- Credential misuse
+| Project | Status | Description |
+|---------|:------:|-------------|
+| Security Controls and NIST CSF | ✅ Complete | Implementation of enterprise security controls mapped to the NIST Cybersecurity Framework. |
+| Enterprise Cybersecurity Policy | 🚧 In Progress | Information security policy aligned with recognised governance standards. |
+| Cybersecurity Governance KPIs | 🚧 In Progress | Development of measurable cybersecurity Key Performance Indicators (KPIs). |
 
 ---
 
-### Continuous Monitoring
+# Learning Outcomes
 
-Framework Reference
+The projects contained within this section demonstrate practical knowledge of cybersecurity governance and the relationship between governance frameworks and technical security implementations.
 
-NIST CSF DE.CM-1
+Key areas include:
 
-Implementation
-
-- Syslog
-- Snort IDS
-
-Threats Prevented
-
-- Malware
-- Suspicious network activity
+- Identifying organisational security risks
+- Implementing security controls
+- Supporting regulatory compliance
+- Measuring cybersecurity performance
+- Producing professional security documentation
 
 ---
 
-### Incident Response Planning
+# Future Projects
 
-Framework Reference
+This section will continue to expand with additional governance and risk-focused projects, including:
 
-NIST CSF RS.RP-1
-
-Implementation
-
-- PICERL Incident Response Plan
-
-Threats Prevented
-
-- Delayed response
-- Operational disruption
+- Risk Register Development
+- Vulnerability Risk Assessment
+- Business Impact Analysis (BIA)
+- Security Gap Analysis
+- ISO/IEC 27001 Control Mapping
+- Third-Party Risk Assessment
 
 ---
 
-## Skills Demonstrated
+## Portfolio Goal
 
-- Cybersecurity Governance
-- Risk Assessment
-- NIST CSF
-- ISO 27001
-- POPIA
-- Incident Response
-- Enterprise Security
-- Security Controls
-
----
-
-## Project Status
-
-Completed
+The goal of this section is to demonstrate the ability to bridge cybersecurity governance with practical technical implementations. Each project reflects the documentation, planning, and analytical skills required in professional cybersecurity and Governance, Risk & Compliance (GRC) environments.
