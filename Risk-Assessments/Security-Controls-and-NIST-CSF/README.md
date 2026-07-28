@@ -8,6 +8,21 @@ The project demonstrates how governance frameworks translate into technical secu
 
 ---
 
+## Technologies Used
+
+- Cisco Packet Tracer
+- NIST Cybersecurity Framework
+- ISO/IEC 27001
+- Wireshark
+- Snort IDS
+- Syslog
+- SSH
+- VLANs
+- Git
+- GitHub
+
+---
+
 ## Objectives
 
 - Understand cybersecurity governance
