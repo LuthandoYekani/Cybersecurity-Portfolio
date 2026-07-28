@@ -99,3 +99,12 @@ Threats Prevented
 ## Project Status
 
 Completed
+
+---
+
+## Key Takeaways
+
+- Governance frameworks guide technical security decisions.
+- Security controls should be linked to measurable business risks.
+- Technical implementations such as VLANs, SSH, Syslog, and IDS support compliance objectives.
+- Effective cybersecurity combines governance, monitoring, and incident response.
