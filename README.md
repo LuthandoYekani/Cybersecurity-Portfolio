@@ -13,9 +13,9 @@
 
 Welcome to my Cybersecurity Portfolio.
 
-I am an aspiring **Cybersecurity Analyst** from South Africa, building practical experience through hands-on networking, cybersecurity, cloud security, and Linux laboratories.
+I am an aspiring **Cybersecurity Analyst** from South Africa, building practical experience through hands-on networking, cybersecurity governance, cloud security, Linux administration, and security laboratories.
 
-This repository documents my learning journey and showcases real-world projects, technical documentation, and security investigations as I continue developing the practical skills required for a career in Cybersecurity.
+This repository documents my learning journey and showcases real-world projects, enterprise documentation, technical investigations, and practical implementations as I continue developing the skills required for a professional career in Cybersecurity.
 
 ---
 
@@ -29,7 +29,21 @@ My goal is to build a career in Cybersecurity by developing practical experience
 - Threat Detection
 - Incident Response
 - Digital Forensics
+- Security Governance
 - Security Automation
+
+---
+
+# 📊 Portfolio Snapshot
+
+| Metric | Current Progress |
+|---------|-----------------:|
+| Portfolio Projects | 7+ |
+| Enterprise Reports | 10+ |
+| Technical Labs | 10+ |
+| Cybersecurity Frameworks | NIST CSF, ISO/IEC 27001 |
+| Documentation Standard | Enterprise |
+| GitHub Status | Actively Updated |
 
 ---
 
@@ -118,12 +132,44 @@ Features include:
 
 ---
 
+## 📋 Enterprise Cybersecurity Governance
+
+**Status:** ✅ Complete
+
+A collection of enterprise governance projects demonstrating cybersecurity policy development, risk management, security frameworks, compliance, and executive reporting.
+
+Projects include:
+
+- Security Controls aligned with the NIST Cybersecurity Framework (CSF)
+- Enterprise Cybersecurity Policy
+- Cybersecurity Governance KPI Strategy
+
+Skills demonstrated:
+
+- Risk Management
+- Security Governance
+- Enterprise Documentation
+- Compliance
+- Security Metrics & KPI Development
+- NIST Cybersecurity Framework (CSF)
+- ISO/IEC 27001
+- POPIA
+- Cybercrimes Act
+
+📁 **Project Folder**
+
+➡️ [Risk Assessments](Risk-Assessments)
+
+---
+
 # 💼 Core Skills
 
 | Domain | Skills |
 |---------|--------|
-| Networking | Routing, Switching, VLANs, Static Routing, IPv4 Subnetting |
-| Network Security | ACLs, Port Security, SSH, Syslog |
+| Networking | Routing, Switching, VLANs, IPv4 Subnetting, Static Routing |
+| Network Security | ACLs, Port Security, SSH, Syslog, Router Hardening |
+| Cybersecurity Governance | Risk Management, Security Policies, KPI Development, Compliance |
+| Security Frameworks | NIST CSF, ISO/IEC 27001, MITRE ATT&CK |
 | Traffic Analysis | Wireshark, Packet Inspection, Protocol Analysis |
 | Intrusion Detection | Snort IDS, Signature-Based Detection |
 | Cloud Security | AWS IAM, EC2, VPC, Security Groups |
@@ -160,7 +206,7 @@ Linux administration, command-line tools, and penetration testing notes.
 
 ### 📋 Risk Assessments
 
-Cybersecurity risk analysis, security frameworks, and governance.
+Enterprise cybersecurity governance, security policies, risk management, compliance, and security frameworks.
 
 ### 💻 Scripts
 
@@ -168,7 +214,7 @@ Automation scripts and cybersecurity utilities.
 
 ### 📝 Writeups
 
-Incident response reports, technical investigations, and security documentation.
+Incident response reports, technical investigations, and professional technical documentation.
 
 ### 🎓 Certifications
 
@@ -196,6 +242,7 @@ Professional certifications and continuous learning achievements.
 
 - AWS Cloud Security
 - Python for Cybersecurity
+- Linux Administration
 - Advanced Wireshark Analysis
 - Digital Forensics
 
@@ -207,11 +254,14 @@ Professional certifications and continuous learning achievements.
 - AWS Certified Cloud Practitioner
 - CompTIA Security+
 - Cisco CCNA
-  
+- CompTIA CySA+
+
 ---
 
 # 🚀 Current Development Roadmap
 
+- Linux Administration
+- Vulnerability Assessment
 - Advanced Wireshark Analysis
 - Nmap Network Reconnaissance
 - AWS Cloud Security
@@ -230,11 +280,15 @@ Networking
       ↓
 Enterprise Security
       ↓
+Cybersecurity Governance
+      ↓
 Packet Analysis
       ↓
 Intrusion Detection
       ↓
 Cloud Security
+      ↓
+Linux Administration
       ↓
 Security Automation
       ↓
@@ -250,10 +304,10 @@ Digital Forensics
 | Networking | ✅ |
 | Packet Tracer Labs | ✅ |
 | Wireshark Analysis | ✅ |
+| Risk Assessments | ✅ |
 | Kali Linux | 🔄 |
 | Nmap Lab | 🔄 |
 | AWS Cloud Security | 🔄 |
-| Risk Assessments | 🔄 |
 | Scripts | 🔄 |
 | Writeups | 🔄 |
 | Certifications | 🔄 |
@@ -273,6 +327,9 @@ Digital Forensics
 - Git
 - GitHub
 - Linux
+- NIST Cybersecurity Framework (CSF)
+- ISO/IEC 27001
+- MITRE ATT&CK Framework
 
 ---
 
@@ -302,9 +359,9 @@ https://github.com/LuthandoYekani
 
 # 📌 About This Repository
 
-This portfolio is continuously updated as I complete new cybersecurity laboratories, cloud security projects, networking exercises, and technical investigations.
+This portfolio is continuously updated as I complete cybersecurity laboratories, enterprise governance projects, cloud security exercises, networking implementations, and technical investigations.
 
-Every project includes practical implementation, supporting documentation, and technical reporting to demonstrate both hands-on experience and professional documentation skills.
+Each repository contains practical implementations supported by professional documentation, technical reports, references, and version-controlled source files. My goal is to demonstrate both hands-on technical capability and the ability to communicate cybersecurity concepts through documentation suitable for professional environments.
 
 ---
 
